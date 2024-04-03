@@ -34,4 +34,4 @@
   }
   )(window);
   
-  byeSpeaker.speak=byeSpeaker;
+  //byeSpeaker.speak=byeSpeaker;

@@ -33,4 +33,4 @@
     window.helloSpeaker=helloSpeaker;
   }
   )(window);
-  helloSpeaker.speak=helloSpeaker;
+  //helloSpeaker.speak=helloSpeaker;
